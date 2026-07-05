@@ -38,10 +38,8 @@ Requirements
 Project Structure
 
 ├── tutorial.py    
-# Main game file
 
 ├── assets/      
-# All sprites, backgrounds, and animations
 
 │   ├── Background/
 
